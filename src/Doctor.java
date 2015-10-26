@@ -1,6 +1,11 @@
 /**
  * Created by Masha on 11.10.2015.
  */
+<<<<<<< HEAD
+=======
+ 
+ 123123123123sdfjksdf
+>>>>>>> 609c25c02fd0e0ebe6321c7bf452a9b0ba4af2de
 public class Doctor {
     private String fam;
     private String name;
