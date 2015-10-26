@@ -1,6 +1,6 @@
 /**
  * Created by Masha on 11.10.2015.
- */12123213
+ */
 public class Client {
     private String fam;
     private String name;

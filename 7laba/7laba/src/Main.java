@@ -19,6 +19,5 @@ public class Main {
         } catch (IOException e){
             e.printStackTrace();
         }
-		123123123345345
     }
 }
