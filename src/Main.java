@@ -5,7 +5,7 @@ import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 import java.io.*;
 
-
+qweqweqw
 public class Main {
 	Привет Маша, я решил сломать программу этой строчкой. Лол. Кек.
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
