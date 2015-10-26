@@ -1,6 +1,8 @@
 /**
  * Created by Masha on 11.10.2015.
  */
+ 
+ 123123123123sdfjksdf
 public class Doctor {
     private String fam;
     private String name;
