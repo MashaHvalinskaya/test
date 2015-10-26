@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+        <doc>
+                <fam>Иванов</fam>
+                <name>Иван</name>
+                <otc>Иванович</otc>
+                <date>10-03-1970</date>
+                <vdolid>1</vdolid>
+                <specid>1</specid>
+                <klavid>1</klavid>
+                <stav>2.0</stav>
+        </doc>
+        <client>
+                <fam>Пупкин</fam>
+                <name>Иван</name>
+                <date>25-03-2003</date>
+                <disease>Грипп</disease>
+        </client>
+</root>
