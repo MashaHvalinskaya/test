@@ -87,4 +87,4 @@ public class Handler extends DefaultHandler{
         System.out.println(doc.toString());
         System.out.println(kl.toString());
     }
-}
+}11:17 27.10.2015
